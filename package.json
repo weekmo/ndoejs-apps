@@ -1,0 +1,14 @@
+{
+  "name": "weekmo",
+  "version": "1.0.0",
+  "description": "first package in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Hassan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
