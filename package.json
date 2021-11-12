@@ -1,13 +1,25 @@
 {
-  "name": "weekmo",
+  "name": "ndoejs-apps",
   "version": "1.0.0",
-  "description": "first package in nodejs",
+  "description": "Learn nodejs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mohammed Hassan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weekmo/ndoejs-apps.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Mohammed Hasssan",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weekmo/ndoejs-apps/issues"
+  },
+  "homepage": "https://github.com/weekmo/ndoejs-apps#readme",
   "dependencies": {
     "dotenv": "^10.0.0"
   }
