@@ -5,3 +5,5 @@ console.log(os.platform());
 
 // Free memory
 console.log(os.freemem());
+
+console.log(os.userInfo());
